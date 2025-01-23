@@ -15,4 +15,7 @@ Primeiramente, foi realizada a diagramação e verificação de estilos para o e
 Posteriormente, foi solicitado que o GPT rodasse o prompt acima.
 Finalmente, foram realizadas as adaptações e organização para o resultado final.
 
+## Resultado do trabalho
+Foi realizada a publicação do trabalho, que pode ser seguida no link [Trabalhando com CSS](https://www.linkedin.com/posts/carlos-massarelli_import%C3%A2ncia-de-trabalhar-com-css-em-sites-activity-7288237455936266240-d7m0?utm_source=share&utm_medium=member_desktop)
 
+Este link levará a página do linkedin do autor.
